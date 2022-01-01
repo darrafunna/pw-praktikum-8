@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Restaurant UP</title>
+  </head>
+  <body>
+    <div class="container mt-3">
+      <div class="header">
+        <img src="logo.png" alt="" />
+        <h5>Restoran UP</h5>
+      </div>
+      <br />
+      <h1>Welcome to Restoran UP!</h1>
+      <h4>Mau makan apa hari ini?</h4>
+      <br />
+
+      <select
+        id="filter"
+        onclick="output()"
+        class="w-25 form-select mb-3"
+        autocomplete="off"
+        style="float: left"
+      >
+        <option>--Pilih Menu--</option>
+        <option value="All">Semua Menu</option>
+        <option value="Makanan">Makanan</option>
+        <option value="Minuman">Minuman</option>
+        <option value="Dessert">Hidangan Penutup</option>
+      </select>
+      <br /><br /><br />
+
+      <div id="tampilan-menu" class="row"></div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="script.js"></script>
+  </body>
+</html>

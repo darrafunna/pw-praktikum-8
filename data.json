@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "jenis": "Makanan",
+      "nama": "Nasi Goreng",
+      "deskripsi": "Nasi goreng dengan telur serta kerupuk.",
+      "harga": "Rp 15.000",
+      "estimasi": "15 menit",
+      "gambar": "img/gambar1.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Es Teh Manis",
+      "deskripsi": "Segelas es teh manis yang segar.",
+      "harga": "Rp 5.000",
+      "estimasi": "5 menit",
+      "gambar": "img/gambar2.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Bakso Daging Sapi",
+      "deskripsi": "Satu mangkok bakso daging sapi dilengkapi dengan mie.",
+      "harga": "Rp 20.000",
+      "estimasi": "15 menit",
+      "gambar": "img/gambar3.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama": "Es Krim",
+      "deskripsi": "Es krim rasa cokelat vanila dengan butiran kacang diatasnya.",
+      "harga": "Rp 12.000",
+      "estimasi": "5 menit",
+      "gambar": "img/gambar4.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Sate Plecing Singaraja Bali",
+      "deskripsi": "Sate plecing makanan khas Bali dengan rasa pedas, gurih dan asam segar.",
+      "harga": "Rp 30.000",
+      "estimasi": "30 menit",
+      "gambar": "img/gambar5.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama": "Es Teler",
+      "deskripsi": "Es teler dengan kombinasi alpukat dan kelapa muda yang segar.",
+      "harga": "Rp 15.000",
+      "estimasi": "15 menit",
+      "gambar": "img/gambar6.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama": "Double Chocolate Pudding Cake",
+      "deskripsi": "Puding cokelat yang sangat lembut dan manis.",
+      "harga": "Rp 20.000",
+      "estimasi": "20 menit",
+      "gambar": "img/gambar7.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Kopi Susu Gula Aren",
+      "deskripsi": "Es kopi susu gula aren dilengkapi dengan boba.",
+      "harga": "Rp 15.000",
+      "estimasi": "10 menit",
+      "gambar": "img/gambar8.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Seblak",
+      "deskripsi": "Seblak kuah dengan isi bakso dan sosis.",
+      "harga": "Rp 15.000",
+      "estimasi": "20 menit",
+      "gambar": "img/gambar9.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Soto Ayam Lamongan",
+      "deskripsi": "Soto ayam khas lamongan dengan citarasa yang susah dilupakan.",
+      "harga": "Rp 20.000",
+      "estimasi": "20 menit",
+      "gambar": "img/gambar10.jpg"
+    }
+  ]
+}

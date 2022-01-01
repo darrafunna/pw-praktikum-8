@@ -1,0 +1,43 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #eef2ff;
+}
+
+.header {
+  display: flex;
+}
+
+.header h5 {
+  font-size: 30px;
+  margin-top: 18px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header select {
+  float: right;
+}
+
+h5 {
+  font-weight: 700;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.header img {
+  width: 50px;
+  height: 50px;
+}
+
+.header select {
+  margin-top: 20px;
+}
+
+.logo {
+  width: 150px;
+}
